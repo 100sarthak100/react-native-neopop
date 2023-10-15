@@ -1,6 +1,6 @@
 {
   "name": "react-native-neopop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NeoPOP components library based on CRED's design system for React Native",
   "main": "index.js",
   "scripts": {
