@@ -1,0 +1,24 @@
+{
+  "name": "react-native-neopop",
+  "version": "1.0.0",
+  "description": "NeoPOP components library based on CRED's design system for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100sarthak100/react-native-neopop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100sarthak100/react-native-neopop/issues"
+  },
+  "homepage": "https://github.com/100sarthak100/react-native-neopop#readme",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.67.3",
+    "react-native-reanimated": "^2.4.1"
+  }
+}
